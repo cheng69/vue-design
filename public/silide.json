@@ -1,0 +1,19 @@
+{
+  "data":{
+    "length":3,
+    "content":[
+      {
+        "id":"家具设计师",
+        "img":"images/silide1"
+      },
+      {
+        "id":"逆袭",
+        "img":"images/silide2"
+      },
+      {
+        "id":"欢迎",
+        "img":"images/silide3"
+      }
+    ]
+  }
+}
